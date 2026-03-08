@@ -24,20 +24,30 @@
 
 <div class="gallery">
     <div class="card">
-        <img src="painting1.jpg" alt="Traditional Thangka Painting">
-        <div class="card-info">
-            <h3>Thangka Art</h3>
-            <p>Intricate spiritual scrolls.</p>
-        </div>
+        <img src="P1.jpeg" alt="Nepal Handicraft Painting 1">
+        <div class="card-info"><h3>Handmade Art 1</h3></div>
     </div>
-
     <div class="card">
-        <img src="painting2.jpg" alt="Mithila Art">
-        <div class="card-info">
-            <h3>Mithila Painting</h3>
-            <p>Vibrant folk art from Terai.</p>
-        </div>
+        <img src="P2.jpeg" alt="Nepal Handicraft Painting 2">
+        <div class="card-info"><h3>Handmade Art 2</h3></div>
     </div>
+    <div class="card">
+        <img src="P3.jpeg" alt="Nepal Handicraft Painting 3">
+        <div class="card-info"><h3>Handmade Art 3</h3></div>
+    </div>
+    <div class="card">
+        <img src="P4.jpeg" alt="Nepal Handicraft Painting 4">
+        <div class="card-info"><h3>Handmade Art 4</h3></div>
+    </div>
+    <div class="card">
+        <img src="P5.jpeg" alt="Nepal Handicraft Painting 5">
+        <div class="card-info"><h3>Handmade Art 5</h3></div>
+    </div>
+    <div class="card">
+        <img src="P6.jpeg" alt="Nepal Handicraft Painting 6">
+        <div class="card-info"><h3>Handmade Art 6</h3></div>
+    </div>
+</div>
 </div>
 
 </body>
