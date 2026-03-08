@@ -24,27 +24,27 @@
 
 <div class="gallery">
     <div class="card">
-        <img src="P1.jpeg" alt="Nepal Handicraft Painting 1">
+        <img src="p1.jpeg" alt="Nepal Handicraft Painting 1">
         <div class="card-info"><h3>Handmade Art 1</h3></div>
     </div>
     <div class="card">
-        <img src="P2.jpeg" alt="Nepal Handicraft Painting 2">
+        <img src="p2.jpeg" alt="Nepal Handicraft Painting 2">
         <div class="card-info"><h3>Handmade Art 2</h3></div>
     </div>
     <div class="card">
-        <img src="P3.jpeg" alt="Nepal Handicraft Painting 3">
+        <img src="p3.jpeg" alt="Nepal Handicraft Painting 3">
         <div class="card-info"><h3>Handmade Art 3</h3></div>
     </div>
     <div class="card">
-        <img src="P4.jpeg" alt="Nepal Handicraft Painting 4">
+        <img src="p4.jpeg" alt="Nepal Handicraft Painting 4">
         <div class="card-info"><h3>Handmade Art 4</h3></div>
     </div>
     <div class="card">
-        <img src="P5.jpeg" alt="Nepal Handicraft Painting 5">
+        <img src="p5.jpeg" alt="Nepal Handicraft Painting 5">
         <div class="card-info"><h3>Handmade Art 5</h3></div>
     </div>
     <div class="card">
-        <img src="P6.jpeg" alt="Nepal Handicraft Painting 6">
+        <img src="p6.jpeg" alt="Nepal Handicraft Painting 6">
         <div class="card-info"><h3>Handmade Art 6</h3></div>
     </div>
 </div>
