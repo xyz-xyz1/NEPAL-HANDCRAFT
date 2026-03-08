@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nepal Handicraft | Handmade Paintings</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; margin: 0; padding: 0; background-color: #f9f4ef; }
+        header { background: #8e2424; color: white; padding: 2rem; text-align: center; }
+        .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 40px; }
+        .card { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: 0.3s; }
+        .card:hover { transform: translateY(-5px); }
+        .card img { width: 100%; height: 250px; object-fit: cover; }
+        .card-info { padding: 15px; text-align: center; }
+        h2 { color: #8e2424; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🇳🇵 Nepal Handicraft</h1>
+    <p>Authentic Handmade Paintings from the Himalayas</p>
+</header>
+
+<div class="gallery">
+    <div class="card">
+        <img src="painting1.jpg" alt="Traditional Thangka Painting">
+        <div class="card-info">
+            <h3>Thangka Art</h3>
+            <p>Intricate spiritual scrolls.</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="painting2.jpg" alt="Mithila Art">
+        <div class="card-info">
+            <h3>Mithila Painting</h3>
+            <p>Vibrant folk art from Terai.</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
